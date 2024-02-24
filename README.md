@@ -6,7 +6,7 @@
 Food-Vision Notebook
 
 ## Project Overview
-
+Finetuned the EfficientNetB0 which is pretrained on ImageNet dataset to classify the 101 food dishes.
 
 ## Tools Used
 - Tensorflow
